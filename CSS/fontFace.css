@@ -1,0 +1,19 @@
+@font-face {
+    font-family: leaner-font;
+    src :local("leaner-thin"),
+            url(../Font/Leaner-Thin.otf);
+    font-weight: lighter;     
+}
+@font-face {
+    font-family: leaner-font-bold;
+    src :local("leaner-regular"),
+            url(../Font/Leaner-Regular.otf);
+    font-weight: bold;     
+}
+
+@font-face {
+    font-family: leaner-font-bolder;
+    src :local("leaner-bolder"),
+            url(../Font/Leaner-Bold.otf);
+    font-weight: bolder;     
+}
